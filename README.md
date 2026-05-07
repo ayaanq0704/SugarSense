@@ -81,5 +81,5 @@ Random Forest Classifier showed the best performance with:
 Clone the repository:
 
 ```bash
-git clone https://github.com/sxdiq07/SugarSense.git
+git clone https://github.com/ayaanq0704/SugarSense.git
 cd SugarSense
